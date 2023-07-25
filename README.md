@@ -2,7 +2,7 @@
 !["MyWorkDrive-Logo](MyWorkDrive.png)
 # Cloud File Server for Windows
 
-Access, share and edit your file shares securely using any web browser with our Web File Manager, Mapped Drive Clients or Mobile Apps
+Access, share and edit your file shares securely using any web browser with our Web File Manager, Mapped Drive or Mobile Apps
 ## Web File Manager
 <kbd>![Web-Fle-Manager-Screenshot](Web-File-Manager-Screenshot.png)</kbd>
 ## Mapped Drive Client
